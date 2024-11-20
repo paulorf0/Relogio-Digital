@@ -1,0 +1,14 @@
+Alunos:
+
+Paulo Ricardo Ferlin
+Kristen Pavarine Pereira
+Bryan Mendes
+
+Consideração:
+
+Para o relógio digital, deve-se abrir o arquivo "trabalho.circ", que é o arquivo principal. Os outros arquivos são subcircuitos utilizados para que o relógio funcione.
+
+Cada subcircuito foi nomeado como "Minutos", "Segundos" ou "Horas", referindo-se a cada parte do relógio.
+
+Horas Minutos Segundos
+XX : XX : XX
